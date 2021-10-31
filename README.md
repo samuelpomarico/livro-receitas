@@ -7,3 +7,4 @@ Olá! bemvindo(a) co livro de receitas
 - ka
 - lda
 - op
+- new
